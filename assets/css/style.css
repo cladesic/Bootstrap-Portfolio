@@ -7,17 +7,30 @@ body{
     font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     margin: auto;
 }
-.navbar-light .nav-brand{
-    color:#4aaaa5;
-    font-family: 'Georgia', Times, Times New Roman, serif;
-    border-bottom:2px solid #dddddd;
+.navbar-light .container{
+    background-color:#ffffff;
+    
 }
+.navbar-light .navbar-brand{
+    color:#ffffff;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    
+    background-color: #4aaaa5;
+}
+.navbar-nav{
+    color:#ffffff;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    }
 .container{
     background-color: #ffffff;
+    }
+
+h3 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
 }
-h1 {
-    color:#ffffff;
-    background-color: #4aaaa5;
+.customContainer{
+    margin-top: 35px;
 }
 p{
   font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
