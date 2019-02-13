@@ -36,6 +36,20 @@ p{
   font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
   columns: #777777;
 }
+.row{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.text1 {
+    position: absolute;
+    bottom:35%;
+    left: 30%;
+    width:52%;
+    transform: translate(-50%, -50%);
+    background-color: #4aaaa5;
+    color:#fff;
+    text-align: center;
+  }
 .footer {
     background-color: #666666;
     border-top: 5px solid #4aaaa5;
