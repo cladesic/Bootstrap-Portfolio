@@ -40,16 +40,30 @@ p{
     margin-top: 5px;
     margin-bottom: 5px;
 }
+img{
+    margin:10px;
+}
 .text1 {
     position: absolute;
-    bottom:35%;
-    left: 30%;
-    width:52%;
+    bottom:15px;
+    left: 200px;
+    width:92%;
     transform: translate(-50%, -50%);
     background-color: #4aaaa5;
     color:#fff;
     text-align: center;
   }
+  form{
+    margin-left: 15px;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;  
+    width:95%;
+  }
+ .btn-primary {
+    color: #fff;
+    background-color:#4aaaa5;
+    margin-bottom: 10px;
+    
+}
 .footer {
     background-color: #666666;
     border-top: 5px solid #4aaaa5;
@@ -60,4 +74,18 @@ p{
     bottom:0px;
     width:100%;
 }
+@media (min-width: 576px) { 
+    
+ }
 
+@media (min-width: 768px) { 
+    
+ }
+
+@media (min-width: 992px) { 
+    
+}
+
+@media (min-width: 1200px) { 
+    
+}
